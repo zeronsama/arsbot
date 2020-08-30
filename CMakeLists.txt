@@ -17,7 +17,7 @@ if(MSVC)
     message(STATUS "optional: /UTF-8")   
 endif(MSVC)
 
-add_executable(${PROJECT_NAME} src/main.cpp)
+add_executable(${PROJECT_NAME} src/main.cpp  "src/EasyFunc.cpp" "include/EasyFunc.h"  )
 # 设置头文件目录
 include_directories(include)
 # 链接 mirai-cpp
