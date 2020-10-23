@@ -3,6 +3,8 @@
 
 初代arsbot仓库:[https://zhouzerong.coding.net/public/arsbot/arsbot/git/files](https://zhouzerong.coding.net/public/arsbot/arsbot/git/files)
 
+***arsbot对于我来说也是极大的挑战，迫于学业压力以及自身能力水平，很不负责任地决定无限期搁置arsbot的开发***
+
 # arsbot是什么？
 是我为了娱乐群友，自己学习用而编写的一个QQ机器人，套用`Bangdream`里市谷有咲的设定，将其命名为`arsbot`(A-Ri-Sa qqBOT)
 
